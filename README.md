@@ -1,8 +1,9 @@
 # PHP Sql Builder Module
 
-[![Maintainer](http://img.shields.io/badge/maintainer-@denniscarrazeiro-blue.svg?style=flat-square)](https://www.linkedin.com/in/dennis-carrazeiro)
+[![Maintainer](http://img.shields.io/badge/maintainer-denniscarrazeiro-blue.svg?style=flat-square)](https://www.linkedin.com/in/dennis-carrazeiro)
+[![Source Code](https://img.shields.io/badge/source-denniscarrazeiro/php_sql_builder_module-blue.svg?style=flat-square)](https://github.com/denniscarrazeiro/php-sql-builder-module)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/denniscarrazeiro/php-sql-builder-module.svg?style=flat-square)](https://packagist.org/packages/denniscarrazeiro/php-sql-builder-module)
-[![Latest Version](https://img.shields.io/github/release/denniscarrazeiro/php-sql-builder-module.svg?style=flat-square)](https://github.com/denniscarrazeiro/php-database-modul/releases)
+[![Latest Version](https://img.shields.io/github/release/denniscarrazeiro/php-sql-builder-module.svg?style=flat-square)](https://github.com/denniscarrazeiro/php-sql-builder-module/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Total Downloads](https://img.shields.io/packagist/dt/denniscarrazeiro/php-sql-builder-module.svg?style=flat-square)](https://packagist.org/packages/denniscarrazeiro/php-sql-builder-module)
 
