@@ -1,0 +1,28 @@
+{
+  "name": "denniscarrazeiro/php-sql-builder-module",
+  "description": "A library that proposes the exchange query strings for easy-to-understand objects.",
+  "version":"1.0.0",
+  "keywords": [
+    "Carrazeiro",
+    "Sql",
+    "Builder",
+    "Anti Injection"
+  ],
+  "homepage": "https://github.com/denniscarrazeiro/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dennis Santana Carrazeiro",
+      "email": "dennis.carrazeiro@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "DennisCarrazeiro\\Php\\Sql\\Builder\\Module\\": "src/"
+    }
+  }
+}
